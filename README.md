@@ -21,7 +21,7 @@ A polished Expo React Native TypeScript task manager built for the Chapter One t
 - React Native Paper
 - React Native Reanimated
 - AsyncStorage
-- Vitest + React Native Testing Library (hook-level practical usage)
+- Vitest (unit tests; React Native Testing Library was not added to avoid npm peer drift with Expo’s pinned React version)
 - ESLint + Prettier
 - Husky + lint-staged
 - GitHub Actions CI
