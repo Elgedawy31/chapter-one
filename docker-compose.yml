@@ -1,0 +1,4 @@
+services:
+  validate:
+    build: .
+    command: npm run test:run
